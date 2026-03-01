@@ -1,0 +1,16 @@
+div{
+    border:2px solid pink;
+    background-color: aqua;
+    margin: 10px;
+    border-radius: 10px;
+}
+.change:hover{
+    background-color:blueviolet;
+}
+
+.new{
+    height: 10px;
+    width:10px
+    padding:50px;
+
+}
