@@ -5,9 +5,9 @@ It focuses on building strong fundamentals required for scalable and
 maintainable frontend applications.
 
 ## Topics Covered
-- HTML: semantic structure, forms, accessibility basics
-- CSS: selectors, box model, Flexbox, responsive layouts
-- JavaScript: fundamentals, DOM manipulation, events, basic logic.
+- HTML
+- CSS
+- JavaScript
 
 ## Purpose
 This repository reflects my consistent practice and understanding of
