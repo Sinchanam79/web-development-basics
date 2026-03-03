@@ -1,0 +1,5 @@
+
+/*changethedisplayofalllistitemstoinlinetomovethemallinasingleline*/
+li{
+    display: inline;
+}
